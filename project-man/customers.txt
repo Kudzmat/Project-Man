@@ -1,0 +1,5 @@
+Kobe Bryant, 0771233, mamba@lakeshow.com, 8 Downtown LA, 24
+Naruto Uzumaki, 0882677, kurama@naruto.com, 8 Hidden Leaf Village, 7
+Sasuke Uchiha, 0882757, sasuke@naruto.com, 18 Leaf Road, 17
+Helen Ken, 939039-], helen@k3n.com, 62 Corporation Street, 45
+Lebron James, 232366, james@lakeshow.com, 6 Lakeshow Drive, 98

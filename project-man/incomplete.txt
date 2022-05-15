@@ -1,0 +1,6 @@
+Hokage Housing, Apartment buildings, Hidden Leaf Village, 007, 950.99, 950.99, 2021-12-25, Naruto Uzumaki, Luigi Super, Goku Son, 7
+7th Hokages Housing Project, Apartment buildings, Hidden Leaf Village, 007, 850.77, 700.23, 2021-12-25, Naruto Uzumaki, Luigi Super, Goku Son, 7
+Home James, Home, 77 Brentwood LA, 0223, 89000.0, 234.0, 2022-03-30, Lebron James, Rob Pelinka, Jeanie Bus, 98
+Home James, Home, 77 Brentwood LA, 0223, 89000.0, 234.0, 2022-03-30, Lebron James, Kurt Rambis, Jeanie Bus, 98
+Home James, Home, 77 Brentwood LA, 0223, 89000.0, 234.0, 2022-04-01, Lebron James, Kurt Rambis, Jeanie Bus, 98
+7th Hokages Housing Project, Apartment buildings, Hidden Leaf Village, 007, 850.77, 700.23, 2022-01-13, Naruto Uzumaki, Luigi Super, Goku Son, 7

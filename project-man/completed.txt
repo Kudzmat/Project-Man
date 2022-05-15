@@ -1,0 +1,3 @@
+House Uchiha, House, Uchiha farm, 0234, 1000.0, 1000.0, 2021-12-18, Sasuke Uchiha, Mario Super, Trunks Briefs, 17, 2021-12-15
+House Ken, House, 53 Corporation Street, 001, 500.0, 500, 2022-01-12, Helen Ken, Deana Phillips, Sam John, 45, 2022-01-03
+House Bryant, House, Staples Center, 002, 824.0, 2.0, 2021-12-10, Kobe Bryant, Mario Super, Rob Pelinka, 24, 2022-03-29
